@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cursorReact17/static/css/main.cbd0cc56.chunk.css",
+    "main.css": "/cursorReact17/static/css/main.ee8ec20d.chunk.css",
     "main.js": "/cursorReact17/static/js/main.e7eb3b1e.chunk.js",
     "main.js.map": "/cursorReact17/static/js/main.e7eb3b1e.chunk.js.map",
     "runtime-main.js": "/cursorReact17/static/js/runtime-main.6291cb87.js",
@@ -8,15 +8,15 @@
     "static/js/2.26b50a0d.chunk.js": "/cursorReact17/static/js/2.26b50a0d.chunk.js",
     "static/js/2.26b50a0d.chunk.js.map": "/cursorReact17/static/js/2.26b50a0d.chunk.js.map",
     "index.html": "/cursorReact17/index.html",
-    "precache-manifest.84ed1461b35ba1f306a7bda3e12b1ad0.js": "/cursorReact17/precache-manifest.84ed1461b35ba1f306a7bda3e12b1ad0.js",
+    "precache-manifest.7755832d96b04b16b1703a0a772df640.js": "/cursorReact17/precache-manifest.7755832d96b04b16b1703a0a772df640.js",
     "service-worker.js": "/cursorReact17/service-worker.js",
-    "static/css/main.cbd0cc56.chunk.css.map": "/cursorReact17/static/css/main.cbd0cc56.chunk.css.map",
+    "static/css/main.ee8ec20d.chunk.css.map": "/cursorReact17/static/css/main.ee8ec20d.chunk.css.map",
     "static/js/2.26b50a0d.chunk.js.LICENSE.txt": "/cursorReact17/static/js/2.26b50a0d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6291cb87.js",
     "static/js/2.26b50a0d.chunk.js",
-    "static/css/main.cbd0cc56.chunk.css",
+    "static/css/main.ee8ec20d.chunk.css",
     "static/js/main.e7eb3b1e.chunk.js"
   ]
 }
